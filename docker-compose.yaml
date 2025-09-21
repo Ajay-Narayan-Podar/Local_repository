@@ -1,0 +1,2 @@
+services:
+#You can add your image info now to fetch the image from the docker hub and initiate its container(instance).
